@@ -1,2 +1,2 @@
-# Delta-HMI-simulator-AS-functions
-Projekt for Delta HMI to simulate AS build-in functions
+# Custom libraries for Delta Electronic products Induprogress
+> Project for Delta HMI to simulate AS build-in functions
