@@ -13,3 +13,6 @@
 *.~isp
 *.~bak
 *.bak
+
+#DIADesigner 
+*.diabak
